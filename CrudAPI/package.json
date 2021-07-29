@@ -1,0 +1,23 @@
+{
+  "name": "crudapi",
+  "version": "1.0.0",
+  "description": "First NodeJs API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dannieib/NodeJsCRUDAPI.git"
+  },
+  "keywords": [
+    "commit"
+  ],
+  "author": "Daniel Ibanga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dannieib/NodeJsCRUDAPI/issues"
+  },
+  "homepage": "https://github.com/Dannieib/NodeJsCRUDAPI#readme"
+}
